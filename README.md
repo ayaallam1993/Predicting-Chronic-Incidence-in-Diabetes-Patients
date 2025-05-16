@@ -13,6 +13,6 @@ Diagnosis_Type: Type of diabetes diagnosis (all are Type II).
 Acute_flag: Indicates if the patient had acute complications.
 ER_flag_bef_chronic & # ER_befor_Chr: Emergency room visits before chronic complications.
 IP_flag_bef_chr & # IP_bef_chr: Inpatient admissions before chronic complications.
-# OP_Bef_chr: Number of outpatient visits before chronic complications.
+OP_Bef_chr: Number of outpatient visits before chronic complications.
 Comorbidity: Presence of pre-existing conditions.
 Various chronic conditions: Includes hypertension, obesity, stroke, etc.
